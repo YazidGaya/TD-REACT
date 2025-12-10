@@ -7,10 +7,9 @@ Il explique l'utilisations des hooks (`useState`, `useEffect`) et du chargement 
 
 ##  Installation et exécution du projet
 
-### 1. Installer les dépendances
+###  Installer les dépendances
 
-```bash
-npm install
+"npm install"
 
-## Lancer l"application
-npm run dev
+### Lancer l"application
+"npm run dev"
